@@ -1,4 +1,4 @@
-# TripleTen Sprint 10 Project – Machine Learning in Business: Oil Well Profitability Analysis
+# TripleTen Sprint 9 Project – Machine Learning in Business: Oil Well Profitability Analysis
 
 This is one of the applied machine learning projects I completed in the TripleTen Data Science program. It focused on using regression modeling and statistical analysis to help an energy company make a high‑stakes business decision about where to develop its next oil well.
 
